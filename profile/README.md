@@ -9,8 +9,12 @@
 
 ## Projet PHP
 
+[Framework Educ](#) : Framework orienté Education pour apprendre MVC
 [App Web Archi MVC](https://github.com/studoo-app/app-web-archi-mvc) : Projet pour conceptualiser en MVC PHP POO
 
+## Librairy
+
+[PHP API Ecole Directes](https://github.com/studoo-app/ecole-directe-api) : PHP API Ecole Directe (non officielle)
 ____
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/studoo/studoo)
 [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)](https://docker.com/)
