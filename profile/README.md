@@ -9,7 +9,7 @@
 
 ## Projet PHP
 
-[Edu Framework](https://github.com/studoo-app/edu-framework) : Framework orienté Education pour apprendre MVC \
+[Edu Framework](https://github.com/studoo-app/edu-framework) : Framework orienté Education pour apprendre concept MVC
 
 ## Librairy
 
