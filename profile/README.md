@@ -18,10 +18,10 @@
 
 ### Development pipelines
 
-| Package  | Github actions         |
-| :------- | :--------------------- |
-| Edu Framework v2.0 | [![Run test status](https://github.com/studoo-app/edu-framework/actions/workflows/testing.yml/badge.svg?branch=2.0)](https://github.com/studoo-app/edu-framework/actions/workflows/testing.yml) |
-| Edu Framework v2.1 | [![Run test status](https://github.com/studoo-app/edu-framework/actions/workflows/testing.yml/badge.svg?branch=2.1)](https://github.com/studoo-app/edu-framework/actions/workflows/testing.yml) |
+| Package  | Release         | Github actions         |
+| :------- | :--------------------- |:--------------------- |
+| Edu Framework | v2.1 | [![Run test status](https://github.com/studoo-app/edu-framework/actions/workflows/testing.yml/badge.svg?branch=2.1)](https://github.com/studoo-app/edu-framework) |
+| Edu Framework | v2.0 | [![Run test status](https://github.com/studoo-app/edu-framework/actions/workflows/testing.yml/badge.svg?branch=2.0)](https://github.com/studoo-app/edu-framework) |
 
 ____
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/studoo/studoo)
