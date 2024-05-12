@@ -16,7 +16,18 @@
 [PHP API Ecole Directe](https://github.com/studoo-app/ecole-directe-api) : PHP API Ecole Directe \
 [MOCK API Ecole Directe](https://github.com/studoo-app/mock-ecole-directe-api) : Mock PHP API Ecole Directe sous docker
 
+### Development pipelines
+
+| Package  | Github actions         |
+| :------- | :--------------------- |
+| Edu Framework v2.0 | [![Run test status](https://github.com/studoo-app/edu-framework/actions/workflows/testing.yml/badge.svg?branch=2.0)](https://github.com/studoo-app/edu-framework/actions/workflows/testing.yml) |
+| Edu Framework v2.1 | [![Run test status](https://github.com/studoo-app/edu-framework/actions/workflows/testing.yml/badge.svg?branch=2.1)](https://github.com/studoo-app/edu-framework/actions/workflows/testing.yml) |
+
 ____
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/studoo/studoo)
 [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)](https://docker.com/)
 [![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=777BB4&logo=php&logoColor=FFFFFF)](https://www.php.net/)
+
+
+
+
