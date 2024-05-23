@@ -28,6 +28,8 @@ ____
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/studoo/studoo)
 [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)](https://docker.com/)
 [![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=777BB4&logo=php&logoColor=FFFFFF)](https://www.php.net/)
+[![GO](https://img.shields.io/static/v1?label=&message=GO&color=76d3fe&logo=go&logoColor=FFFFFF)](https://go.dev/)
+[![JAVASCRIPT](https://img.shields.io/static/v1?label=&message=JAVASCRIPT&color=F0DB4F&logo=javascript&logoColor=323330)](https://go.dev/)
 
 
 
