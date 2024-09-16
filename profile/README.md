@@ -13,7 +13,7 @@
 
 ## Librairy
 
-[MOCK API Véliko](https://github.com/studoo-app/mock-veliko-api) : Mock API Véliko
+[MOCK API Véliko](https://github.com/studoo-app/mock-veliko-api) : Mock API Véliko \
 [PHP API Ecole Directe](https://github.com/studoo-app/ecole-directe-api) : PHP API Ecole Directe \
 [MOCK API Ecole Directe](https://github.com/studoo-app/mock-ecole-directe-api) : Mock API Ecole Directe sous docker
 
