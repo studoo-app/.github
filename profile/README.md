@@ -1,21 +1,9 @@
 ![separe](https://github.com/studoo-app/.github/blob/main/profile/studoo-banner-logo.png) \
-**Collectif [Dev/Devops]** pour l'enseignement - <a href="https://github.com/bfoujols" target="_blank">@bfoujols</a> / <a href="https://github.com/JPechberty" target="_blank">@JPechberty</a> 
-
-## Tools
-
-[Go Fast Faskfile](https://github.com/studoo-app/go-fast-taskfile) : Outil pour optimiser les taches de DEV dans un projet Symfony \
-[Docker DB Pattern](https://github.com/studoo-app/docker-db-pattern) : Pattern Docker pour vos projets
-
+**Collectif [Dev/Devops/CyberSec/Infra/Archi]** pour l'enseignement - <a href="https://github.com/bfoujols" target="_blank">@bfoujols</a> / <a href="https://github.com/JPechberty" target="_blank">@JPechberty</a> 
 
 ## Projet PHP
 
 [Edu Framework](https://github.com/studoo-app/edu-framework) : Framework orienté Education
-
-## Librairy
-
-[MOCK API Véliko](https://github.com/studoo-app/mock-veliko-api) : Mock API Véliko \
-[PHP API Ecole Directe](https://github.com/studoo-app/ecole-directe-api) : PHP API Ecole Directe \
-[MOCK API Ecole Directe](https://github.com/studoo-app/mock-ecole-directe-api) : Mock API Ecole Directe sous docker
 
 ## Documentation
 
